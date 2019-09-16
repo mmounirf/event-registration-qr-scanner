@@ -1,4 +1,4 @@
-# event-registration-qr-scanner
+# Event Registration QR Scanner
 
 This Flutter app is created as a tool to help a friend of mine register guests at some event with the exact time they arrived. Basically, the app reads the QR code, check the if the value exists in Cloud Firestore database, and then update the record with the current timestamp. The app is used with a dashboard that you can find it [here](https://github.com/mmounirf/event-registration-dashboard)
 
